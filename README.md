@@ -22,14 +22,14 @@
 
 
 - 🔭 I’m currently working on: 
-  - Creating automated data pipelines with python3 
-  - Importing unstructured data into databases's
+  - Creating automated data pipelines.
+  - Importing unstructured data into databases's.
   - Building and managing data clusters.
 
 - 🌱 I’m currently learning: 
-  - Database design & management
-  - ETL
-  - Restful & event-driven API's
+  - Database design & management.
+  - ETL tools.
+  - Restful & event-driven API's.
 
 
 - 📫 How to reach me: jshores281@gmail.com
