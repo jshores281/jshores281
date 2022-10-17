@@ -4,11 +4,6 @@
   </p>
 
 
-<!--![climate-2099146_640](https://user-images.githubusercontent.com/52839097/196298111-fcd5978d-ab7e-43b1-b625-041ce0465ed0.png)
--->
-
-
-
 <p align="center">
   Hi there, welcome to my github page. 
 </p>
