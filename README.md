@@ -26,8 +26,6 @@
 
 
 - :fire: I’m currently working on: 
-  - The Future
- 
   - Creating automated data pipelines.
   - Importing unstructured data into databases's.
   - Building and managing data local database's and distributed clusters.
