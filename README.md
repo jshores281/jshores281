@@ -4,34 +4,53 @@
   </p>
 
 
+<br>
+
 <p align="center">
-  Hi there, welcome to my github page. 
+ 
 </p>
 
 
-### This page is dedicated to building server-side and back-end tools while also exercising database management and design.
+# Welcome to the Data Arsenal. 
+
+### This page is dedicated to building server-side tools used for personal insight and attaining the ability to achieve what other software tools cannot. 
+
+
+<br>
+
+-----
+
+## Tech Stack:
+
+
+
 
 <br>
 
 -----
 
 
-- 🔭 I’m currently working on: 
+- :fire: I’m currently working on: 
+  - The Future
+ 
   - Creating automated data pipelines.
   - Importing unstructured data into databases's.
-  - Building and managing data clusters.
+  - Building and managing data local database's and distributed clusters.
 
 - 🌱 I’m currently learning: 
   - Database design & management.
-  - ETL tools.
+  - Docker. 
+  - ETL with python3.
   - Restful & event-driven API's.
 
 
-- 📫 How to reach me: jshores281@gmail.com
+- :key: How to reach me: jshores281@gmail.com
 
 <br>
 
 --------
+
+##### work in progress
 
 <!--
 ![Jshores281's GitHub stats](https://github-readme-stats.vercel.app/api?username=jshores281&show_icons=true&theme=dark)
