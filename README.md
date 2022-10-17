@@ -1,14 +1,11 @@
 
 <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/52839097/196298111-fcd5978d-ab7e-43b1-b625-041ce0465ed0.png"/>
+  <img src="https://user-images.githubusercontent.com/52839097/196304358-41d1f9bd-d5d9-4f73-aec7-5da149c48ce8.png"/>
   </p>
 
 
 <br>
 
-<p align="center">
- 
-</p>
 
 
 # Welcome to the Data Arsenal. 
