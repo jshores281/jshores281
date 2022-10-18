@@ -17,15 +17,16 @@
 
 ## Tech Stack:
 <p align="center"> 
-  <img img width="75" hspace="25" vspace="25" src="https://user-images.githubusercontent.com/52839097/196538073-a7d41d8b-082e-47c0-a786-4dcb4e9f94cd.svg"/>
-  <img img width="75" hspace="25" vspace="25" src="https://user-images.githubusercontent.com/52839097/196539712-2496cfb9-5284-4414-88b8-95bda1cc28cc.svg"/>
-  <img img width="75" hspace="25" vspace="25" src="https://user-images.githubusercontent.com/52839097/196541420-92e159d1-ee1a-421f-a274-06a304fb1687.svg"/>
-  <img img width="75" hspace="25" vspace="25" src="https://user-images.githubusercontent.com/52839097/196538956-97c8ce36-abad-4f3b-a133-5552e8b630fe.svg"/>
-  <img img width="75" hspace="25" vspace="25" src="https://user-images.githubusercontent.com/52839097/196539697-01091085-a89f-457e-af03-4c94692c5e42.svg"/>  
-  <img img width="75" hspace="25" vspace="25" src="https://user-images.githubusercontent.com/52839097/196539726-dd6eb048-d2dc-46db-9d84-5104bedd6159.svg"/>
-  
+  <img img width="55" hspace="20" vspace="25" src="https://user-images.githubusercontent.com/52839097/196538073-a7d41d8b-082e-47c0-a786-4dcb4e9f94cd.svg"/>
+  <img img width="55" hspace="20" vspace="25" src="https://user-images.githubusercontent.com/52839097/196539712-2496cfb9-5284-4414-88b8-95bda1cc28cc.svg"/>
+  <img img width="55" hspace="20" vspace="25" src="https://user-images.githubusercontent.com/52839097/196541420-92e159d1-ee1a-421f-a274-06a304fb1687.svg"/>
+  <img img width="55" hspace="20" vspace="25" src="https://user-images.githubusercontent.com/52839097/196538956-97c8ce36-abad-4f3b-a133-5552e8b630fe.svg"/>
+  <img img width="55" hspace="20" vspace="25" src="https://user-images.githubusercontent.com/52839097/196539697-01091085-a89f-457e-af03-4c94692c5e42.svg"/>  
+  <img img width="55" hspace="20" vspace="25" src="https://user-images.githubusercontent.com/52839097/196541997-9f3ab090-f5ac-45ca-a15f-b2a6aee380f7.svg"/>
+  <img img width="55" hspace="20" vspace="25" src="https://user-images.githubusercontent.com/52839097/196542082-d01e7638-e769-4a03-b916-0d8711ee6318.svg"/>
+  <img img width="55" hspace="20" vspace="25" src="https://user-images.githubusercontent.com/52839097/196539726-dd6eb048-d2dc-46db-9d84-5104bedd6159.svg"/>
 </p>
-
+ 
 <br>
 
 
