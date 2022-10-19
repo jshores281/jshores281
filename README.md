@@ -35,13 +35,6 @@
  
  
 
-
-<br>
-
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jshores281&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
 <br>
 
 -----
@@ -69,13 +62,10 @@
 --------
 
 
-<!--
-![Jshores281's GitHub stats](https://github-readme-stats.vercel.app/api?username=jshores281&show_icons=true&theme=dark)
--->
-
-
-
-
+<p align="left"> 
+  <a href="https://www.github.com/jshores281/"><img  hspace="25" vspace="25" src="https://github-readme-stats.vercel.app/api?username=jshores281&show_icons=true&theme=dark" alt="Jshores281's GitHub stats/></a>
+  <a href="https://www.github.com/jshores281/"><img hspace="25" vspace="25" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jshores281&langs_count=8&theme=dark" alt="Top Langs"/></a>
+</p>
 
 
 
