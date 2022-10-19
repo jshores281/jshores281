@@ -50,7 +50,7 @@
 
 
 - :fire: I’m currently working on: 
-  - Automating Terminal user interface app for system backups to network attach storages.
+  - Automating system backups to network attach storages.
   - Automating data pipelines from custom API's.
   - Automating database normalization designs.
   - Building and managing both local and distributed databases.
