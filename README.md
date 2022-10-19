@@ -50,15 +50,16 @@
 
 
 - :fire: I’m currently working on: 
-  - Creating automated data pipelines from custom API's.
-  - Automating database normalization designs
-  - Importing unstructured data into databases's.
+  - Automating Terminal user interface app for system backups to network attach storages.
+  - Automating data pipelines from custom API's.
+  - Automating database normalization designs.
   - Building and managing both local and distributed databases.
 
 - 🌱 I’m currently learning: 
   - Database design & management.
-  - Docker. 
-  - ETL with python3.
+  - Cleaning & importing unstructured data into databases's.
+  - Docker & kubernetes. 
+  - Data wrangling & custom ETL's with python3.
   - Restful & event-driven API's.
 
 
