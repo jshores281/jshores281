@@ -48,7 +48,7 @@
   - Database design & management.
   - Cleaning & importing unstructured data into databases's.
   - Docker & kubernetes. 
-  - Data wrangling & custom ETL's with python3.
+  - Custom ETL's with python3.
   - Restful & event-driven API's.
 
 
