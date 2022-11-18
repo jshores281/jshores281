@@ -52,7 +52,7 @@
   - Restful & event-driven API's.
 
 
-- :key: How to reach me = jshores281@gmail.com
+- :key: Reach out = jshores281@gmail.com
 
 <br>
 
