@@ -37,19 +37,19 @@
 
 -----
 
+</a><img src="https://komarev.com/ghpvc/?username=jshores281&style=flat&label=Profile visits" alt="SaiNave" /></a>
+
+
 
 - :fire: I’m currently working on: 
-  - Automating system backups to network attach storages.
+  - Restful & event-driven API's.
+  - Database design.
   - Automating data pipelines from custom API's.
-  - Automating database normalization designs.
-  - Building and managing both local and distributed databases.
-
-- 🌱 I’m currently learning: 
-  - Database design & management.
+  - Custom ETL's with python3.
   - Cleaning & importing unstructured data into databases's.
   - Docker & kubernetes. 
-  - Custom ETL's with python3.
-  - Restful & event-driven API's.
+
+
 
 
 - :key: Reach out = jshores281@gmail.com
