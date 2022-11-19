@@ -8,7 +8,7 @@
 
 # Welcome to the Data Arsenal. 
 
-### This page is dedicated to building and practicing server-side tools used to enhance data analysis skills, gain personal insights and create new ideas. 
+### This page is dedicated to building and practicing server-side tools used to enhance data engineering skills, gain personal insights, test and create new ideas. 
 
 
 <br>
