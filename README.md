@@ -42,13 +42,15 @@
 
 
 - :fire: I’m currently working on: 
-  - Restful & event-driven API's.
-  - Database design.
-  - Automating data pipelines from custom API's.
-  - Custom ETL's with python3.
+  - RESTful & event-driven API's.
+  - Relational & distributed database designs.
+  - Automating data pipelines with custom API's.
+ 
+ <!--
   - Cleaning & importing unstructured data into databases's.
+  - Custom ETL's with python3.
   - Docker & kubernetes. 
-
+-->
 
 
 
