@@ -1,12 +1,12 @@
-
+<!--
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/52839097/196554542-4747f745-3040-4d5a-87f1-fffa22997873.png"/>
   </p>
-
+-->
 
 <br>
 
-# Welcome to the Data Arsenal. 
+# Welcome to my Github. 
 
 ### This page is dedicated to building and practicing server-side tools used to enhance data engineering skills, gain personal insights, test and create new ideas. 
 
