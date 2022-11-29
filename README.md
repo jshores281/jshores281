@@ -54,14 +54,13 @@
   - Docker & kubernetes. 
 -->
 
-
-
-- :key: Reach out = jshores281@gmail.com
-
 <br>
 
+- :key: Reach out = jshores281@gmail.com
+ 
+
 --------
---------
+
 
 
 <p align="center"> 
@@ -71,4 +70,4 @@
 
 
 
-
+--------
