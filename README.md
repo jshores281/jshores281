@@ -62,8 +62,8 @@
 -----
 
 <p align="center"> 
-  <a href="https://github.com/jshores281?tab=repositories"><img width="450" hspace="15" vspace="25" src="https://github-readme-stats.vercel.app/api?username=jshores281&show_icons=true&theme=dark" Jshores GitHub stats/></a>
-  <a href="https://github.com/jshores281?tab=repositories"><img width="320"  hspace="15" vspace="25" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jshores281&langs_count=8&theme=dark" alt="Top Langs"/></a>
+  <a href="https://github.com/jshores281?tab=repositories"><img  hspace="15" vspace="25" src="https://github-readme-stats.vercel.app/api?username=jshores281&show_icons=true&theme=dark" Jshores GitHub stats/></a>
+  <a href="https://github.com/jshores281?tab=repositories"><img height="196" hspace="15" vspace="25" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jshores281&langs_count=8&theme=dark" alt="Top Langs"/></a>
 </p>
 
 
