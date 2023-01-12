@@ -59,7 +59,7 @@
 
 - :key: Email = jshores281@gmail.com
  
------
+<!-----
 
 <p align="center"> 
   <a href="https://github.com/jshores281?tab=repositories"><img  hspace="15" vspace="25" src="https://github-readme-stats.vercel.app/api?username=jshores281&show_icons=true&theme=dark" Jshores GitHub stats/></a>
@@ -69,4 +69,4 @@
 [![jshores281 GitHub stats](https://github-readme-stats.vercel.app/api?username=jshores281)](https://github.com/anuraghazra/github-readme-stats)
 
 
---------
+-------->
