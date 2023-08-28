@@ -45,9 +45,9 @@
 
 - :fire: I’m currently working on: 
 
+  - Automating & orchestrating data pipelines.
   - RESTful & event-driven API's.
   - Relational & distributed database designs.
-  - Automating data pipelines with custom API's.
  
  <!--
   - Cleaning & importing unstructured data into databases's.
