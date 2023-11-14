@@ -48,6 +48,7 @@
   - Automating & orchestrating data pipelines.
   - RESTful & event-driven API's.
   - Relational & distributed database designs.
+  - Kubernetes cloud applications
  
  <!--
   - Cleaning & importing unstructured data into databases's.
