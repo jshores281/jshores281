@@ -7,7 +7,7 @@
 -----
 ## Languages & Tools:
 
-<p align="center"> 
+<p align="left"> 
   <a href="https://airflow.apache.org/"><img width="40" hspace="17" vspace="10" src="https://github.com/jshores281/jshores281/assets/52839097/cc7325e0-a614-495c-bfcf-0e01178b586c"/></a>
   <a href="https://www.python.org/"><img width="40" hspace="17" vspace="10" src="https://user-images.githubusercontent.com/52839097/196538956-97c8ce36-abad-4f3b-a133-5552e8b630fe.svg"/></a>
   <a href="https://www.docker.com/"><img width="40" hspace="17" vspace="10" src="https://github.com/jshores281/jshores281/assets/52839097/1d2fb11c-3019-46b2-8c6b-fc13d9c73682"/></a>
@@ -15,7 +15,7 @@
   
   <a href="https://aws.amazon.com/ec2/"><img width="40" hspace="17" vspace="10" src="https://user-images.githubusercontent.com/52839097/196538073-a7d41d8b-082e-47c0-a786-4dcb4e9f94cd.svg"/></a>
 </p>
-<p align="center"> 
+<p align="left"> 
   <a href="https://www.datastax.com"><img width="40" hspace="17" vspace="10" src="https://github.com/jshores281/jshores281/assets/52839097/7e0c6d32-98ab-40aa-b7e3-df7fc714944b"/></a>  
   <a href="https://www.postgresql.org/"><img width="40" hspace="17" vspace="10" src="https://user-images.githubusercontent.com/52839097/196541997-9f3ab090-f5ac-45ca-a15f-b2a6aee380f7.svg"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019"><img width="40" hspace="17" vspace="10" src="https://user-images.githubusercontent.com/52839097/196542082-d01e7638-e769-4a03-b916-0d8711ee6318.svg"/></a>
