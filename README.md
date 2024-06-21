@@ -26,11 +26,11 @@
 
 - :fire: I’m currently working on: 
 
-  - RESTful & event-driven API's.
-  - Relational & distributed database design.
-  - Docker & Kubernetes cloud applications
+  - RESTful & Event-Driven API's.
+  - Relational & Distributed Database Design.
+  - Docker & Kubernetes Cloud Applications
   - Custom ETL Pipelines.
-  - CI/CD deployment.
+  - CI/CD Deployment.
  
 <br>
 
