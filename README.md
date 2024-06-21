@@ -18,34 +18,25 @@
   <a href="https://www.linux.org/"><img width="40" hspace="17" vspace="10" src="https://github.com/jshores281/jshores281/assets/52839097/535f97db-5009-4190-992d-5006a9f9261f"/></a>
 </p>
 
-<br><br>
-
+<br>
 -----
+
 - :fire: I’m currently working on: 
 
-  - Automating & orchestrating data pipelines.
   - RESTful & event-driven API's.
-  - Relational & distributed database designs.
-  - Kubernetes cloud applications
+  - Relational & distributed database design.
+  - Docker & Kubernetes cloud applications
   - Custom ETL Pipelines.
+  - CI/CD deployment.
  
- <!--
-  - Cleaning & importing unstructured data into databases's.
-  
-  - Docker & kubernetes. 
--->
+<br>
+
+- :key: Email = jshores281@gmail.com
 
 <br>
-- :key: Email = jshores281@gmail.com
- 
 
 <p align="center"> 
   <a href="https://github.com/jshores281?tab=repositories"><img  hspace="15" vspace="25" src="https://github-readme-stats.vercel.app/api?username=jshores281&show_icons=true&theme=dark" Jshores GitHub stats/></a>
   <a href="https://github.com/jshores281?tab=repositories"><img height="196" hspace="15" vspace="25" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jshores281&langs_count=8&theme=dark" alt="Top Langs"/></a>
 </p>
-
-<!--
-[![jshores281 GitHub stats](https://github-readme-stats.vercel.app/api?username=jshores281)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
