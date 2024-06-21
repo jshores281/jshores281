@@ -18,8 +18,6 @@
 -----
 
 ## Languages & Tools:
- 
-![Linux](https://github.com/jshores281/jshores281/assets/52839097/535f97db-5009-4190-992d-5006a9f9261f)
 
 
 <p align="center"> 
