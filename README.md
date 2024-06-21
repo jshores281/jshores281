@@ -80,8 +80,7 @@
 </p>
 
 
-<!---
 [![jshores281 GitHub stats](https://github-readme-stats.vercel.app/api?username=jshores281)](https://github.com/anuraghazra/github-readme-stats)
 
---->
+
 
