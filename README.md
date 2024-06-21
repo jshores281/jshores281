@@ -71,7 +71,7 @@
 
 <br>
 
-- 📧: Email = jshores281@gmail.com
+- :e-mail: Email = jshores281@gmail.com
  
 
 <p align="center"> 
