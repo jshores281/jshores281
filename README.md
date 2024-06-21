@@ -56,7 +56,7 @@
 
 
 
-- 🔥: I’m currently working on: 
+- :fire: I’m currently working on: 
 
   - Automating & orchestrating data pipelines.
   - RESTful & event-driven API's.
@@ -71,7 +71,7 @@
 
 <br>
 
-- :e-mail: Email = jshores281@gmail.com
+- :key: Email = jshores281@gmail.com
  
 
 <p align="center"> 
