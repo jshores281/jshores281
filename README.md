@@ -14,6 +14,8 @@
   <a href="https://kubernetes.io/"><img width="40" hspace="17" vspace="10" src="https://github.com/jshores281/jshores281/assets/52839097/0306fe41-4046-4692-b571-3ec7ceccf666"/></a>
   
   <a href="https://aws.amazon.com/ec2/"><img width="40" hspace="17" vspace="10" src="https://user-images.githubusercontent.com/52839097/196538073-a7d41d8b-082e-47c0-a786-4dcb4e9f94cd.svg"/></a>
+</p>
+<p align="center"> 
   <a href="https://www.datastax.com"><img width="40" hspace="17" vspace="10" src="https://github.com/jshores281/jshores281/assets/52839097/7e0c6d32-98ab-40aa-b7e3-df7fc714944b"/></a>  
   <a href="https://www.postgresql.org/"><img width="40" hspace="17" vspace="10" src="https://user-images.githubusercontent.com/52839097/196541997-9f3ab090-f5ac-45ca-a15f-b2a6aee380f7.svg"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019"><img width="40" hspace="17" vspace="10" src="https://user-images.githubusercontent.com/52839097/196542082-d01e7638-e769-4a03-b916-0d8711ee6318.svg"/></a>
