@@ -2,7 +2,6 @@
 ### This page is dedicated to building and practicing server-side tools used to enhance data engineering skills, gain personal insights, test and create new ideas. 
 
 <br>
-![Kubernetes](https://github.com/jshores281/jshores281/assets/52839097/0306fe41-4046-4692-b571-3ec7ceccf666)
 
 -----
 ## Languages & Tools:
