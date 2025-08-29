@@ -25,11 +25,11 @@
 
 - :fire: I’m currently working on: 
 
-  - RESTful & Event-Driven API's.
-  - Relational & Distributed Database Design.
-  - Docker & Kubernetes Cloud Applications
-  - Custom ETL Pipelines.
-  - CI/CD Deployment.
+  - RESTful API Design.
+  - Event-Driven API Design.
+  - SQL & NoSQL Database Design.
+  - Kubernetes Microservice Cloud Applications
+  - Airflow Data Pipelines.
  
 <br>
 
